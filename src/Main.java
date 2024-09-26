@@ -7,6 +7,8 @@ public class Main {
         Scanner in = new Scanner(System.in);
         double itemCost = 0;
         double shippingCost = 0;
+
+        // Prompt user for item price
         System.out.print("Please enter the price of your item: ");
 
         // Check if input is a valid item price
